@@ -20,8 +20,7 @@ Updating IP or Direct URLs
 - You could do hover the domain (snoovatar.reddit.com) to check the IP of that domain. If this doesn't work in your browser go to IP Checker (ipaddress.com, check-host.net) or just google it "Find website IP Address" and enter the domain website (snoovatar.reddit.com) then IP checker website will tell you the IP.
 - And add it to your hosts file manually. (Don't forget to untick the read-only attribute first)
 - Example :
-- 199.232.69.140    snoovatar.reddit.com
-
+- 199.232.69.140&nbsp; &nbsp; snoovatar.reddit.com
 - P.S : IP Address of site could change whenever if the website you unblock gets maintenance or updates.
 
 Status - Updated (2021-08-16)
